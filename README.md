@@ -1,10 +1,10 @@
 ## Olá 👋, eu sou o Renan
 
-- 🔭 Hoje trabalho como Analista de Desenvolvimento Back-end
+- 🔭 Hoje trabalho como Desenvolvedor Back-end
 - 🎓 Sou bacharel em Sistemas de Informação - UFU
 - 🎓 Pós-graduado em Análise e Desenvolvimento de Sistemas - IFTM
 - 📖 Atualmente estou reforçando os conceitos básicos de Java
-- 📖 Estudando NodeJS, MongoDB, Docker, Cloud e Inteligência Artificial
+- 📖 Estudando NodeJS, ExpressJS, JavaScript, MongoDB, Docker, Cloud e Inteligência Artificial
 
 ##
 
