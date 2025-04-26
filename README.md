@@ -4,7 +4,7 @@
 - 🎓 Sou bacharel em Sistemas de Informação - UFU
 - 🎓 Pós-graduado em Análise e Desenvolvimento de Sistemas - IFTM
 - 📖 Atualmente estou reforçando os conceitos básicos de Java
-- 📖 Estudando NodeJS, ExpressJS, JavaScript, MongoDB, Docker, Cloud e Inteligência Artificial
+- 📖 Estudando Docker, Kubernets, Cloud e Inteligência Artificial
 
 ##
 
