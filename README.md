@@ -29,6 +29,7 @@
   <img align="center" alt="Renan-Github" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Renan-Bitbucket" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg">
   <img align="center" alt="Renan-Linux" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="Renan-Docker" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
 </div>
 
 ##
