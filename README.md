@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como Desenvolvedor Back-end
 - 🎓 Sou bacharel em Sistemas de Informação - UFU
 - 🎓 Pós-graduado em Análise e Desenvolvimento de Sistemas - IFTM
-- 📖 Estudando Docker, Kubernets, Cloud e Inteligência Artificial
+- 📖 Estudando Docker, Kubernetes, Cloud e Inteligência Artificial
 
 ##
 
