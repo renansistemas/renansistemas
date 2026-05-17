@@ -1,9 +1,10 @@
 ## Olá 👋, eu sou o Renan
 
-- 🔭 Hoje trabalho como Desenvolvedor Back-end
+- 🔭 Hoje trabalho como Analista e Desenvolvedor Full Stack Sênior
 - 🎓 Sou bacharel em Sistemas de Informação - UFU
 - 🎓 Pós-graduado em Análise e Desenvolvimento de Sistemas - IFTM
-- 📖 Estudando Docker, Kubernetes, Cloud e Inteligência Artificial
+- ☁️ AWS Certified Cloud Practitioner
+- 📖 Estudando Inteligência Artificial
 
 ##
 
