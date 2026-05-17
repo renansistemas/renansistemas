@@ -32,6 +32,7 @@
   <img align="center" alt="Renan-Docker" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Renan-Kubernetes" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg">
   <img align="center" alt="Renan-DigitalOcean" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg">
+  <img align="center" alt="Renan-Aws" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
 ##
